@@ -1,7 +1,7 @@
 #!/bin/sh
 #requires the following
 # free, hostname, grep, cut, awk, uname, sar, ps, netstat
-. /root/.profile
+#. /root/.profile
 
 
 HOSTNAME=`hostname -s`
